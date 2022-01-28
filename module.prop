@@ -4,3 +4,4 @@ version=1
 versionCode=1
 author=Hakimi0804
 description=meh
+updateJson=https://raw.githubusercontent.com/Hakimi0804/magisk-modules-json/main/ih8sn-magisk.json
