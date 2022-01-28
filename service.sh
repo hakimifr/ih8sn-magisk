@@ -13,3 +13,8 @@ until [ "$(getprop sys.boot_completed)" = "1" ]; do
 done
 
 ih8sn boot_completed
+
+# DenyList
+magisk --denylist enable
+magisk --denylist add com.google.android.gms
+magisk --denylist add com.google.android.gms com.google.android.gms.unstable
