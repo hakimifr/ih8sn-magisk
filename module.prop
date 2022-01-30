@@ -1,7 +1,7 @@
 id=ih8sn
 name=ih8sn Systemless
-version=v4.0
-versionCode=4
+version=v4.1
+versionCode=04100
 author=Hakimi0804
 description=meh
 updateJson=https://raw.githubusercontent.com/Hakimi0804/magisk-modules-json/main/ih8sn-magisk.json
